@@ -1,9 +1,13 @@
 ## Hi There! :wave:
 
-My name is Ryan and i am a Student Software Developer who believes in using technology and programming to solve problems.
+My name is Ryan and i am a Student Software Developer who believes in using technology and programming to solve problems.  What am I currently doing:
 
-<p align="center">
-<img src="https://github.com/FikraOps/FikraOps/blob/master/desksma.jpg" width="50%" height="50%" style="float:right;">
-</p>
+<ul>
+  <li>:herb: Learning Node.JS</li>
+  <li>:cactus: Seeking Open-Source projects to contribute to</li>
+  <li>:fallen_leaf: Opportunities for collaborative learning</li>
+   <li>:shamrock: Opportunities to give back</li>
+</ul>
+
 “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
 
