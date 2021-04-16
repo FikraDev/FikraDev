@@ -1,6 +1,7 @@
 ## Hi There! :wave:
 
-My name is Ryan and i am a Student Software Developer who believes in using technology and programming to solve problems.  What am I currently doing:
+My name is Ryan and i am a Student Software Developer who believes in using technology and programming to solve problems.  
+* I currently:
 
 <ul>
   <li>:herb: Learning Node.JS</li>
