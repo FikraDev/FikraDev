@@ -7,8 +7,8 @@ I am currently:
 <ul>
   <li>:herb: Learning Node.JS</li>
   <li>:cactus: Seeking Open-Source projects to contribute to</li>
-  <li>:fallen_leaf: Opportunities for collaborative learning</li>
-   <li>:shamrock: Opportunities to give back</li>
+  <li>:fallen_leaf: Seeking opportunities for collaborative learning</li>
+   <li>:shamrock: Seeking opportunities to give back</li>
 </ul>
 
 “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
