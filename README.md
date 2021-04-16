@@ -1,4 +1,4 @@
-##Hi There! :wave:
+## Hi There! :wave:
 
 My name is Ryan and i am a Student Software Developer who believes in using technology and programming to solve problems.
 
