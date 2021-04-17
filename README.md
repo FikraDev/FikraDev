@@ -13,8 +13,11 @@ I am currently:
 
 ## Stats
 
+[![Fikradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikradev)](https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact)](https://github.com/fikradev/github-readme-stats)
+
+
 
 
 
