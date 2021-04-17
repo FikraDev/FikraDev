@@ -11,5 +11,10 @@ I am currently:
    <li>:shamrock: Seeking opportunities to give back</li>
 </ul>
 
+## Stats
+
+[![Fikradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikradev)](https://github.com/fikradev/github-readme-stats)
+
+
 “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
 
