@@ -13,7 +13,9 @@ I am currently:
 
 ## Stats
 
-[![Fikradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikradev&show_icons=true)](https://github.com/fikradev/github-readme-stats)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact)](https://github.com/fikradev/github-readme-stats)
+
 
 
 “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
