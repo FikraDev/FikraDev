@@ -13,7 +13,7 @@ I am currently:
 
 ## Stats
 
-[![Fikradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikradev)](https://github.com/fikradev/github-readme-stats)
+[![Fikradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikradev&show_icons=true)](https://github.com/fikradev/github-readme-stats)
 
 
 “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
