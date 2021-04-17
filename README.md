@@ -19,6 +19,15 @@ I am currently:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
 </a>
 
+## Projects
+
+<a href="https://github.com/fikradev/github-readme-stats">
+  https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=fx-guru
+</a>
+
+
+
+
 
 
 
