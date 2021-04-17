@@ -21,12 +21,12 @@ I am currently:
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=fx-guru)](https://github.com/fikradev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=fx-guru)](https://github.com/fikradev/fx-guru)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=Tax-Calculator)](https://github.com/fikradev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=Tax-Calculator)](https://github.com/fikradev/Tax-Calculator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=Jamaica-60-Countdown-Clock)](https://github.com/fikradev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=Jamaica-60-Countdown-Clock)](https://github.com/fikradev/Jamaica-60-Countdown-Clock)
 
 
 
