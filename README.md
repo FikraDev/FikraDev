@@ -12,10 +12,17 @@ I am currently:
 </ul>
 
 ## Stats
+<a href="https://github.com/fikradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fikradev&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/fikradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
+</a>
 
-[![Fikradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikradev)](https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact)](https://github.com/fikradev/github-readme-stats)
+
+
+
 
 
 
