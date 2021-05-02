@@ -19,6 +19,8 @@ I am currently:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
 </a>
 
+*.js linguist-detectable=true
+
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=fx-guru)](https://github.com/fikradev/fx-guru)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=Tax-Calculator)](https://github.com/fikradev/Tax-Calculator)
