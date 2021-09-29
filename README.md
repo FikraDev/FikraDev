@@ -5,7 +5,7 @@ My name is Ryan a Software Developer who believes in using technology and progra
 I am currently:
 
 <ul>
-  <li>:herb: Learning Node.JS</li>
+  <li>:herb: Learning Python and Django</li>
   <li>:cactus: Seeking Open-Source projects to contribute to</li>
   <li>:fallen_leaf: Seeking opportunities for collaborative learning</li>
    <li>:shamrock: Seeking opportunities to give back</li>
