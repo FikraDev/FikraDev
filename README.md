@@ -1,6 +1,6 @@
 ## Hi There! :wave:
 
-My name is Ryan, a budding Software Developer who believes in using technology and programming to solve problems.  
+My name is Ryan, a budding Infrastructure Engineer who believes in using technology and programming to solve problems.  
 
 I am currently:
 
