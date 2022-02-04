@@ -5,7 +5,7 @@ My name is Ryan, a budding Infrastructure Engineer who believes in using technol
 I am currently:
 
 <ul>
-  <li>:herb: Learning Python and Django</li>
+  <li>:herb: Learning Nodejs</li>
   <li>:cactus: Seeking Open-Source projects to contribute to</li>
   <li>:fallen_leaf: Seeking opportunities for collaborative learning</li>
    <li>:shamrock: Seeking opportunities to give back</li>
