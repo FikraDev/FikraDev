@@ -18,7 +18,9 @@ I am currently:
 <a href="https://github.com/fikradev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
 </a>
-
+<a href="https://github.com/fikradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
+</a>
 
 
 ## Projects
