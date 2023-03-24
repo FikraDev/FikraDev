@@ -8,7 +8,6 @@ I am currently:
   <li>:herb: Learning Golang and Docker</li>
   <li>:cactus: Seeking Open-Source projects to contribute to</li>
   <li>:fallen_leaf: Seeking opportunities for collaborative learning</li>
-   <li>:shamrock: Seeking opportunities to give back</li>
 </ul>
 
 ## Stats
@@ -25,7 +24,7 @@ I am currently:
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=fx-guru)](https://github.com/fikradev/fx-guru)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=Tax-Calculator)](https://github.com/fikradev/Tax-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikradev&repo=nodejs-jm-crime-stats-api)](https://github.com/fikradev/nodejs-jm-crime-stats-api)
 
 
 
