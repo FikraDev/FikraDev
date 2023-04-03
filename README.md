@@ -10,8 +10,8 @@ I am currently:
   <li>:fallen_leaf: Seeking opportunities for collaborative learning</li>
 </ul>
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FikraDev)](https://git.io/streak-stats)
+<!-- ## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FikraDev)](https://git.io/streak-stats) -->
 
 
 ## Projects
