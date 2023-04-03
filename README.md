@@ -11,15 +11,7 @@ I am currently:
 </ul>
 
 ## Stats
-<a href="https://github.com/fikradev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fikradev&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/fikradev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
-</a>
-<!-- <a href="https://github.com/fikradev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikradev&layout=compact" />
-</a> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FikraDev)](https://git.io/streak-stats)
 
 
 ## Projects
