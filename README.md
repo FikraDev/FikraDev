@@ -1,6 +1,6 @@
 ## Hi There! :wave:
 
-My name is Ryan, a budding Infrastructure Engineer who believes in using technology and programming to solve problems.  
+My name is Ryan, a Business Systems Analyst with a passion data, infrastructure and Devops.  I am currently acquiring the skills to branch out into the Data Engineering/DataOps career path.
 
 I am currently:
 
