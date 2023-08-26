@@ -5,7 +5,7 @@ My name is Ryan, a budding Infrastructure Engineer who believes in using technol
 I am currently:
 
 <ul>
-  <li>:herb: Learning Golang and Docker</li>
+  <li>:herb: Learning Python and SQL</li>
   <li>:cactus: Seeking Open-Source projects to contribute to</li>
   <li>:fallen_leaf: Seeking opportunities for collaborative learning</li>
 </ul>
