@@ -2,6 +2,8 @@
 
 My name is Ryan, a Business Systems Analyst with a passion data, infrastructure and Devops.  I am currently acquiring the skills to branch out into the Data Engineering/DataOps career path.
 
+I am a lover of opensource technologies and whenever possible, prefer to use it over closed source. 
+
 I am currently:
 
 <ul>
